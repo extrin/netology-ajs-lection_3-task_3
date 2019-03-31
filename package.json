@@ -1,0 +1,27 @@
+{
+  "name": "netology-ajs-lection_3-task_3",
+  "version": "1.0.0",
+  "description": "Code for task 3 of lesson 3 in AJS course at Netology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extrin/netology-ajs-lection_3-task_3.git"
+  },
+  "keywords": [
+    "netology",
+    "ajs"
+  ],
+  "author": "extrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extrin/netology-ajs-lection_3-task_3/issues"
+  },
+  "homepage": "https://github.com/extrin/netology-ajs-lection_3-task_3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
